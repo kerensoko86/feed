@@ -1,0 +1,480 @@
+Mon, 23 Mar 2020 12:22:00 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 15:30:33 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:06:21 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:13:01 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:18:35 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:19:24 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:21:31 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:28:39 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:28:54 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:33:50 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:33:58 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:35:52 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:35:53 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:36:19 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:36:35 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:38:52 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:39:00 GMT - Debug - auth.service - login with email: a@a.com
+Mon, 23 Mar 2020 16:41:21 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:41:41 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 16:42:24 GMT - Debug - auth.service - login with email: d@d.com
+Mon, 23 Mar 2020 16:53:33 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 16:54:35 GMT - Debug - auth.service - login with email: d@d.com
+Mon, 23 Mar 2020 16:56:04 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 17:13:03 GMT - Debug - auth.service - login with email: d@d.com
+Mon, 23 Mar 2020 17:19:14 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 17:20:09 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 17:20:23 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 17:23:26 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 17:25:08 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 18:05:47 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 18:05:59 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 18:07:08 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 18:07:17 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 18:16:06 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 18:31:49 GMT - Debug - asd, undefined, 1
+Mon, 23 Mar 2020 18:31:49 GMT - Debug - auth.service - signup with email: asd, username: undefined
+Mon, 23 Mar 2020 18:31:49 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:31:51 GMT - Debug - asd, undefined, 1
+Mon, 23 Mar 2020 18:31:51 GMT - Debug - auth.service - signup with email: asd, username: undefined
+Mon, 23 Mar 2020 18:31:51 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:32:18 GMT - Debug - asd, undefined, 1
+Mon, 23 Mar 2020 18:32:18 GMT - Debug - auth.service - signup with email: asd, username: undefined
+Mon, 23 Mar 2020 18:32:18 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:32:27 GMT - Debug - auth.service - login with email: asd
+Mon, 23 Mar 2020 18:32:44 GMT - Debug - lkj, undefined, 1
+Mon, 23 Mar 2020 18:32:44 GMT - Debug - auth.service - signup with email: lkj, username: undefined
+Mon, 23 Mar 2020 18:32:44 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:42:22 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 18:42:37 GMT - Debug - cxz, undefined, 1
+Mon, 23 Mar 2020 18:42:37 GMT - Debug - auth.service - signup with email: cxz, username: undefined
+Mon, 23 Mar 2020 18:42:37 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:44:18 GMT - Debug - cxz, undefined, 1
+Mon, 23 Mar 2020 18:44:18 GMT - Debug - auth.service - signup with email: cxz, username: undefined
+Mon, 23 Mar 2020 18:44:18 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:44:59 GMT - Debug - cxz, undefined, 1
+Mon, 23 Mar 2020 18:44:59 GMT - Debug - auth.service - signup with email: cxz, username: undefined
+Mon, 23 Mar 2020 18:44:59 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:45:11 GMT - Debug - cxza, undefined, 1
+Mon, 23 Mar 2020 18:45:11 GMT - Debug - auth.service - signup with email: cxza, username: undefined
+Mon, 23 Mar 2020 18:45:11 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 23 Mar 2020 18:47:47 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 18:48:02 GMT - Debug - cxz, 1
+Mon, 23 Mar 2020 18:48:02 GMT - Debug - auth.service - signup with email: cxz
+Mon, 23 Mar 2020 18:48:02 GMT - Debug - auth.route - new account created: {"firstName":"asd","lastName":"dsa","email":"cxz","password":"$2b$10$pJw71Axtlx45jnrBdWg2UulvoA3eQShCqP4.V/nU5vbYRDXxz4yXe","createdAt":1584989274043,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":null,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e790462c5bf6752308878f7"}
+Mon, 23 Mar 2020 18:48:02 GMT - Debug - auth.service - login with email: cxz
+Mon, 23 Mar 2020 18:52:20 GMT - Info - Server is running on port: 3030
+Mon, 23 Mar 2020 19:08:03 GMT - Debug - auth.service - login with email: d@d.com
+Mon, 23 Mar 2020 19:38:54 GMT - Debug - p@p.com, 1
+Mon, 23 Mar 2020 19:38:54 GMT - Debug - auth.service - signup with email: p@p.com
+Mon, 23 Mar 2020 19:38:55 GMT - Debug - auth.route - new account created: {"firstName":"rating test","lastName":"rate 0","email":"p@p.com","password":"$2b$10$0uvDMWC3pzDb6JXkWV4XgOJKlCzgjDsHVUnEKne8TKOOmnJQqz/b2","createdAt":1584992305923,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":null,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e79104fcbe5582f38767222"}
+Mon, 23 Mar 2020 19:38:55 GMT - Debug - auth.service - login with email: p@p.com
+Mon, 23 Mar 2020 19:40:17 GMT - Debug - i@i.com, 1
+Mon, 23 Mar 2020 19:40:17 GMT - Debug - auth.service - signup with email: i@i.com
+Mon, 23 Mar 2020 19:40:17 GMT - Debug - auth.route - new account created: {"firstName":"rate 0","lastName":"rating","email":"i@i.com","password":"$2b$10$J/02LYXKnPtlpCIHPiZ1VenII/BgXG7BaoPg6JujNus/H7CcyHrY.","createdAt":1584992395828,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e7910a1cbe5582f38767223"}
+Mon, 23 Mar 2020 19:40:17 GMT - Debug - auth.service - login with email: i@i.com
+Mon, 23 Mar 2020 21:42:48 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 21:42:51 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 21:42:58 GMT - Debug - auth.service - login with email: d@d.com
+Mon, 23 Mar 2020 21:44:07 GMT - Debug - auth.service - login with email: c@c.com
+Mon, 23 Mar 2020 21:44:15 GMT - Debug - auth.service - login with email: d@d.com
+Mon, 23 Mar 2020 21:44:24 GMT - Debug - auth.service - login with email: i@i.com
+Tue, 24 Mar 2020 08:33:42 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 11:10:41 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 11:20:21 GMT - Debug - a@a.com, 1
+Tue, 24 Mar 2020 11:20:21 GMT - Debug - auth.service - signup with email: a@a.com
+Tue, 24 Mar 2020 11:20:21 GMT - Debug - auth.route - new account created: {"firstName":"Zachary","lastName":"Adams","email":"a@a.com","password":"$2b$10$fP47aW9V4OTlfVxkcxgJeObAgD15GTTT4ZDeWOfNXlLQDTQdqDjgu","createdAt":1585048333743,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e79ecf5f8913727c471f0f6"}
+Tue, 24 Mar 2020 11:20:21 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:20:21 GMT - Error - [SIGNUP] Invalid email or password
+Tue, 24 Mar 2020 11:20:24 GMT - Debug - a@a.com, 1
+Tue, 24 Mar 2020 11:20:24 GMT - Debug - auth.service - signup with email: a@a.com
+Tue, 24 Mar 2020 11:20:24 GMT - Debug - auth.route - new account created: {"firstName":"Zachary","lastName":"Adams","email":"a@a.com","password":"$2b$10$JmzVEJPpkWUde81StC7psuyKEyAPPC0Ock5cFg4wXfcXGF5xbrr/y","createdAt":1585048333743,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585048821/zack-min_zixf6e.png","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e79ecf8f8913727c471f0f7"}
+Tue, 24 Mar 2020 11:20:24 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:20:24 GMT - Error - [SIGNUP] Invalid email or password
+Tue, 24 Mar 2020 11:20:27 GMT - Debug - a@a.com, 1
+Tue, 24 Mar 2020 11:20:27 GMT - Debug - auth.service - signup with email: a@a.com
+Tue, 24 Mar 2020 11:20:27 GMT - Debug - auth.route - new account created: {"firstName":"Zachary","lastName":"Adams","email":"a@a.com","password":"$2b$10$UuwoHSNIIRNsH0mv5if4KOhg6ft6IoXOb45NQQswX9VSXzMDtceHS","createdAt":1585048333743,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585048821/zack-min_zixf6e.png","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e79ecfbf8913727c471f0f8"}
+Tue, 24 Mar 2020 11:20:27 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:20:27 GMT - Error - [SIGNUP] Invalid email or password
+Tue, 24 Mar 2020 11:21:26 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:22:33 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:22:55 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:24:29 GMT - Debug - a@a.com, 1
+Tue, 24 Mar 2020 11:24:29 GMT - Debug - auth.service - signup with email: a@a.com
+Tue, 24 Mar 2020 11:24:29 GMT - Debug - auth.route - new account created: {"firstName":"Zachary","lastName":"Adams","email":"a@a.com","password":"$2b$10$4Ue1N3pQRChLvb2UBoihyOSJRXWvKXCHgcnWTFNiJeQvGjzc.VH3q","createdAt":1585049031304,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585049067/zack-min_drrldd.png","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e79ededf8913727c471f0f9"}
+Tue, 24 Mar 2020 11:24:29 GMT - Debug - auth.service - login with email: a@a.com
+Tue, 24 Mar 2020 11:32:21 GMT - Debug - d@d.com, 1
+Tue, 24 Mar 2020 11:32:21 GMT - Debug - auth.service - signup with email: d@d.com
+Tue, 24 Mar 2020 11:32:21 GMT - Debug - auth.route - new account created: {"firstName":"Denis","lastName":"Pavlov","email":"d@d.com","password":"$2b$10$FdC9y.Yz.7RXHKMS80ys7ekRzoZOBnIksvNqf2.uyAE33q14Kfy/O","createdAt":1585049489339,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585049540/denis-min_npmmvv.png","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e79efc5f8913727c471f0fa"}
+Tue, 24 Mar 2020 11:32:21 GMT - Debug - auth.service - login with email: d@d.com
+Tue, 24 Mar 2020 11:32:51 GMT - Debug - auth.service - login with email: d@d.com
+Tue, 24 Mar 2020 11:32:56 GMT - Debug - auth.service - login with email: d@d.com
+Tue, 24 Mar 2020 11:33:16 GMT - Debug - auth.service - login with email: d@d.com
+Tue, 24 Mar 2020 12:24:03 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 12:24:37 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 12:26:12 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 12:33:05 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 17:39:50 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 17:39:57 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 17:44:44 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:29:23 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:33:16 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:42:21 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:42:52 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:43:30 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:45:27 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:46:24 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:46:40 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:47:13 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:51:18 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:51:22 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:51:56 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:52:11 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:52:40 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:52:58 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:53:56 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:54:44 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:55:54 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:56:08 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 18:56:21 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 19:02:29 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 19:20:37 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 19:42:18 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:03:51 GMT - Debug - test, 1
+Tue, 24 Mar 2020 20:03:51 GMT - Debug - auth.service - signup with email: test
+Tue, 24 Mar 2020 20:03:51 GMT - Debug - auth.route - new account created: {"firstName":"ofek","lastName":"test","email":"test","password":"$2b$10$xtUjTpcOr82Bn.ZpdLU/QO7q7y05NVX6HHZxN7Io1vysbJVsm54LG","createdAt":1585080165592,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tour":{"_id":null,"name":"","city":"","desc":"","tags":[""],"spots":[""],"price":null,"tourImgUrls":[""],"availability":{},"maxAttendees":null},"nextTrip":{"city":"","fromDate":"","toDate":""},"_id":"5e7a67a73580d44ab005a5d0"}
+Tue, 24 Mar 2020 20:03:51 GMT - Debug - auth.service - login with email: test
+Tue, 24 Mar 2020 20:05:08 GMT - Debug - auth.service - login with email: d@d.com
+Tue, 24 Mar 2020 20:13:25 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:16:05 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:17:36 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:17:51 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:20:17 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:20:18 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:20:44 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:21:35 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:21:50 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:22:08 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:22:18 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 20:37:53 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:11:05 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:11:05 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:27:22 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:28:45 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:29:53 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:30:27 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:35:27 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:35:40 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:36:22 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:37:04 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:39:08 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:49:45 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:52:37 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:53:04 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:53:31 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 21:53:56 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:04:45 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:05:58 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:06:17 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:15:24 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:15:34 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:18:14 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:19:03 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:22:32 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:27:28 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:27:30 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:27:42 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:33:17 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:33:52 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:35:28 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:37:48 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:38:12 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:40:50 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:40:58 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:41:24 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:43:42 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:43:49 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:44:15 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:44:19 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 22:44:39 GMT - Info - Server is running on port: 3030
+Tue, 24 Mar 2020 23:02:09 GMT - Debug - d@d.f, 1
+Tue, 24 Mar 2020 23:02:09 GMT - Debug - auth.service - signup with email: d@d.f
+Tue, 24 Mar 2020 23:02:09 GMT - Debug - auth.route - new account created: {"firstName":"Yn","lastName":"fdwg","email":"d@d.f","password":"$2b$10$39COOhjt93SH0Z3lhpmE9.myU0vCnZS1PIqmU0FP12QPQseli4ItK","createdAt":1585090913246,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7a917121457b633c474c9e"}
+Tue, 24 Mar 2020 23:02:09 GMT - Debug - auth.service - login with email: d@d.f
+Tue, 24 Mar 2020 23:19:46 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:17:24 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:21:24 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:40:06 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:40:14 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:40:17 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:41:17 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:41:48 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:45:54 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:47:21 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:48:21 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:49:05 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:50:06 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:50:24 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:50:57 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:55:00 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 09:55:05 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 12:14:31 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 12:21:16 GMT - Debug - auth.service - login with email: d@d.com
+Wed, 25 Mar 2020 12:58:04 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 12:58:24 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 13:00:28 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 13:00:56 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 13:03:12 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 13:18:07 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:02:44 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:09:16 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:13:32 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:13:47 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:13:59 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:15:47 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:32:56 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:37:25 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:40:45 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:40:54 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:42:39 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:44:16 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:48:02 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:51:07 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:51:39 GMT - Debug - rere, 1
+Wed, 25 Mar 2020 14:51:39 GMT - Debug - auth.service - signup with email: rere
+Wed, 25 Mar 2020 14:51:39 GMT - Debug - auth.route - new account created: {"firstName":"rere","lastName":"erer","email":"rere","password":"$2b$10$w2ID8dNwJdQdWURFTqdaRex3GxFuT5OTip87Vov.HG9yl2FfVGbgC","createdAt":1585147883304,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585147895/Chelsea-min_d1yfig.png","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7b6ffb1c5df53b3ca4615e"}
+Wed, 25 Mar 2020 14:51:39 GMT - Debug - auth.service - login with email: rere
+Wed, 25 Mar 2020 14:52:53 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 14:52:58 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:00:05 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:02:59 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:03:34 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:03:40 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:04:41 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:05:02 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:10:44 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:13:03 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:13:31 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:14:20 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:14:27 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:15:53 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 15:19:45 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:24:06 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:32:04 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:33:18 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:37:44 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:41:55 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:44:57 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:50:45 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:50:50 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:58:58 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:59:20 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 16:59:37 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:29:17 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:35:50 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:37:42 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:37:48 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:43:18 GMT - Debug - auth.service - login with email: rere
+Wed, 25 Mar 2020 17:45:03 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:47:17 GMT - Debug - auth.service - login with email: rere
+Wed, 25 Mar 2020 17:49:24 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 17:49:32 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 18:14:54 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 18:17:44 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 18:18:30 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 18:18:53 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 18:49:45 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:15:26 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:20:06 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:22:03 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:22:29 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:27:13 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:31:47 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:31:57 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:32:46 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:39:24 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:40:32 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:41:32 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:42:01 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:42:03 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:42:11 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:47:27 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:55:30 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:55:41 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:55:49 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:55:57 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 19:58:35 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 20:14:21 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 20:14:30 GMT - Info - Server is running on port: 3030
+Wed, 25 Mar 2020 20:14:35 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 08:33:34 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 08:33:59 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 08:36:24 GMT - Debug - auth.service - login with email: rere
+Thu, 26 Mar 2020 08:37:15 GMT - Debug - auth.service - login with email: rere
+Thu, 26 Mar 2020 08:37:30 GMT - Debug - auth.service - login with email: a@a.com
+Thu, 26 Mar 2020 08:41:28 GMT - Debug - auth.service - login with email: a
+Thu, 26 Mar 2020 08:42:11 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 10:00:50 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 10:01:56 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 10:02:18 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 10:03:48 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 12:00:50 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 12:10:26 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 12:10:43 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 12:10:47 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 13:46:38 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 14:18:26 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 14:18:43 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 14:20:01 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 14:28:29 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 14:40:37 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 14:40:59 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 14:41:02 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 14:45:44 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 15:03:57 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 16:43:57 GMT - Debug - ma, 1
+Thu, 26 Mar 2020 16:43:57 GMT - Debug - auth.service - signup with email: ma
+Thu, 26 Mar 2020 16:43:57 GMT - Debug - auth.route - new account created: {"firstName":"delete","lastName":"me","email":"ma","password":"$2b$10$SsWSMxf/ROL/9F/vseQai.jNUEousmZDR89c8zULWisACUQQEOImi","createdAt":1585241015576,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7cdbcd1677732914518a9a"}
+Thu, 26 Mar 2020 16:43:57 GMT - Debug - auth.service - login with email: ma
+Thu, 26 Mar 2020 16:59:32 GMT - Debug - keren, 1
+Thu, 26 Mar 2020 16:59:32 GMT - Debug - auth.service - signup with email: keren
+Thu, 26 Mar 2020 16:59:33 GMT - Debug - auth.route - new account created: {"firstName":"keren","lastName":"keren","email":"keren","password":"$2b$10$zdI/sfyVCMeRkO80Qf9Eg.EwcKYtlZR23tz/i0qZ2tKXVz8y8AsjW","createdAt":1585241956629,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7cdf741677732914518a9b"}
+Thu, 26 Mar 2020 16:59:33 GMT - Debug - auth.service - login with email: keren
+Thu, 26 Mar 2020 17:01:35 GMT - Debug - ofek, 1
+Thu, 26 Mar 2020 17:01:35 GMT - Debug - auth.service - signup with email: ofek
+Thu, 26 Mar 2020 17:01:37 GMT - Debug - auth.route - new account created: {"firstName":"ofek","lastName":"ofek","email":"ofek","password":"$2b$10$pF/POHtuOrUt0Mo4f4etUOjpNUzE8BD2CFMXJTqeTwIeO0XrgqiKm","createdAt":1585242074603,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7cdfef1677732914518a9c"}
+Thu, 26 Mar 2020 17:01:37 GMT - Debug - auth.service - login with email: ofek
+Thu, 26 Mar 2020 17:02:24 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:02:24 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:02:24 GMT - Debug - auth.route - new account created: {"firstName":"delete","lastName":"delete","email":"deltee","password":"$2b$10$tMHu2B8GaT0p9EAy/T2Gn.n0TSAKDPMSHRWqEA3KsVgBQkqxFQuk6","createdAt":1585242131120,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce0201677732914518a9d"}
+Thu, 26 Mar 2020 17:02:24 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:06:52 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:06:52 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:06:52 GMT - Debug - auth.route - new account created: {"firstName":"please be deleteddddd","lastName":"!!!!","email":"deltee","password":"$2b$10$zbl8e8E6Ko8WKcTOpL814uTy/Z2NxKrA6J14kYHmdvCTq4Gp8T4ja","createdAt":1585242400142,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce12c1677732914518a9e"}
+Thu, 26 Mar 2020 17:06:52 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:07:37 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:07:37 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:07:37 GMT - Debug - auth.route - new account created: {"firstName":"setUsers","lastName":"setUsers","email":"deltee","password":"$2b$10$y38Ic1j2Qyq..GkrpiTWGOF3AI9xezuDswrus/AWKV0E4chOLMPZq","createdAt":1585242449294,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce1591677732914518a9f"}
+Thu, 26 Mar 2020 17:07:37 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:07:51 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:07:51 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:07:51 GMT - Debug - auth.route - new account created: {"firstName":"go ","lastName":"away","email":"deltee","password":"$2b$10$.h8ltFhTAd.CIxaqCZJmLuJOm4T91gs5yXGQCeRIhYhJAkaH/3MpO","createdAt":1585242462536,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce1671677732914518aa0"}
+Thu, 26 Mar 2020 17:07:51 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:08:24 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:08:24 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:08:25 GMT - Debug - auth.route - new account created: {"firstName":"bh","lastName":"hb","email":"deltee","password":"$2b$10$Tu6Fm46RS6n/OZMw/pjf5ugy2QBYZXaWavxFTSlZL58/c.grP6y8q","createdAt":1585242494509,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce1881677732914518aa1"}
+Thu, 26 Mar 2020 17:08:25 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:08:41 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:08:41 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:08:41 GMT - Debug - auth.route - new account created: {"firstName":"popopop","lastName":"popopo","email":"deltee","password":"$2b$10$2ezxbDWSXVA6EP6JZoSwg.cPvl1YO0ucaUj.xejUSSADFZyhF96ly","createdAt":1585242513940,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce1991677732914518aa2"}
+Thu, 26 Mar 2020 17:08:41 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:08:58 GMT - Debug - deltee, 1
+Thu, 26 Mar 2020 17:08:58 GMT - Debug - auth.service - signup with email: deltee
+Thu, 26 Mar 2020 17:08:58 GMT - Debug - auth.route - new account created: {"firstName":"opopopopo","lastName":"opopopopo","email":"deltee","password":"$2b$10$eQ5dw0O/cDNLhThfRue4W.VNTybeWrXlD7p/c.KJ9j0k8HUAYIZsS","createdAt":1585242526305,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7ce1aa1677732914518aa3"}
+Thu, 26 Mar 2020 17:08:58 GMT - Debug - auth.service - login with email: deltee
+Thu, 26 Mar 2020 17:12:58 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 18:16:02 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 18:28:45 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 18:34:36 GMT - Debug - auth.service - login with email: d@d.com
+Thu, 26 Mar 2020 18:34:50 GMT - Debug - auth.service - login with email: d@d.com
+Thu, 26 Mar 2020 18:46:47 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 18:57:56 GMT - Debug - auth.service - login with email: j
+Thu, 26 Mar 2020 19:15:51 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 19:16:04 GMT - Info - Server is running on port: 3030
+Thu, 26 Mar 2020 19:54:32 GMT - Debug - new, 1
+Thu, 26 Mar 2020 19:54:32 GMT - Debug - auth.service - signup with email: new
+Thu, 26 Mar 2020 19:54:32 GMT - Debug - auth.route - new account created: {"firstName":"new","lastName":"new","email":"new","password":"$2b$10$bq5bVrNHDNmixA/SKUMfHeatrFLlIPyp6Y926UfYUgrGoq7ROmVey","createdAt":1585252460972,"languages":[""],"userImgUrl":"","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7d0878e7302f259080a8dd"}
+Thu, 26 Mar 2020 19:54:32 GMT - Debug - auth.service - login with email: new
+Thu, 26 Mar 2020 19:58:17 GMT - Debug - auth.service - login with email: e
+Thu, 26 Mar 2020 19:59:00 GMT - Debug - auth.service - login with email: z
+Fri, 27 Mar 2020 08:51:33 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 08:53:19 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 08:55:23 GMT - Debug - auth.service - login with email: j
+Fri, 27 Mar 2020 08:56:03 GMT - Debug - auth.service - login with email: j
+Fri, 27 Mar 2020 09:30:14 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 14:37:21 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 14:59:22 GMT - Debug - auth.service - login with email: j
+Fri, 27 Mar 2020 17:11:15 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 18:04:55 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 18:14:45 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 19:02:57 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 19:26:14 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 19:27:21 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 21:15:12 GMT - Info - Server is running on port: 3030
+Fri, 27 Mar 2020 21:40:19 GMT - Debug - auth.service - login with email: a@a.com
+Sat, 28 Mar 2020 08:19:43 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 08:36:28 GMT - Debug - auth.service - login with email: a@a.com
+Sat, 28 Mar 2020 08:36:45 GMT - Debug - auth.service - login with email: a@a.com
+Sat, 28 Mar 2020 08:41:23 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 09:09:32 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 09:32:43 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:08:22 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:08:35 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:09:58 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:10:34 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:11:38 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:12:40 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:12:45 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:13:10 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 12:53:33 GMT - Debug - auth.service - login with email: a@a.com
+Sat, 28 Mar 2020 12:59:03 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 13:16:31 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 13:24:04 GMT - Debug - auth.service - login with email: z
+Sat, 28 Mar 2020 14:56:48 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 19:34:24 GMT - Debug - logan@car.com, 1
+Sat, 28 Mar 2020 19:34:24 GMT - Debug - auth.service - signup with email: logan@car.com
+Sat, 28 Mar 2020 19:34:24 GMT - Debug - auth.route - new account created: {"firstName":"Logan","lastName":"Carr","email":"logan@car.com","password":"$2b$10$gy2R57filMHMXmNggTZPROqBBbQ.JMZVNSs3YiQHFBEYujspRcFeu","createdAt":1585424006129,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585424058/Logan_Carr-min_vvvyxy.png","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7fa6c04152e343bc7b9c22"}
+Sat, 28 Mar 2020 19:34:24 GMT - Debug - auth.service - login with email: logan@car.com
+Sat, 28 Mar 2020 19:58:32 GMT - Info - Server is running on port: 3030
+Sat, 28 Mar 2020 20:48:33 GMT - Debug - kayla@elliott.com, 1
+Sat, 28 Mar 2020 20:48:33 GMT - Debug - auth.service - signup with email: kayla@elliott.com
+Sat, 28 Mar 2020 20:48:33 GMT - Debug - auth.route - new account created: {"firstName":"Kayla","lastName":"Elliott","email":"kayla@elliott.com","password":"$2b$10$DVDKTiz5fCTbAskRRp1SuuzSVqq6fVdM8UYusISykF/Br9RxjMypS","createdAt":1585428420289,"languages":[""],"userImgUrl":"http://res.cloudinary.com/rendomfun/image/upload/v1585428491/Kayla_Elliott_o171gn.png","isAdmin":false,"rating":0,"bio":"","tourId":null,"_id":"5e7fb8215b4da0557064969f"}
+Sat, 28 Mar 2020 20:48:33 GMT - Debug - auth.service - login with email: kayla@elliott.com
+Sat, 28 Mar 2020 20:51:59 GMT - Debug - auth.service - login with email: kayla@elliott.com
+Sat, 28 Mar 2020 20:57:16 GMT - Debug - auth.service - login with email: kayla@elliott.com
+Sat, 28 Mar 2020 21:24:18 GMT - Debug - auth.service - login with email: a@a.com
+Sun, 29 Mar 2020 00:32:43 GMT - Debug - auth.service - login with email: d@d.com
+Sun, 29 Mar 2020 00:35:19 GMT - Debug - auth.service - login with email: cxz
+Sun, 29 Mar 2020 00:35:28 GMT - Debug - auth.service - login with email: a
+Sun, 29 Mar 2020 00:39:05 GMT - Debug - auth.service - login with email: b
+Sun, 29 Mar 2020 00:41:03 GMT - Debug - auth.service - login with email: z
+Sun, 29 Mar 2020 00:41:03 GMT - Debug - auth.service - login with email: z
+Sun, 29 Mar 2020 00:47:45 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 08:32:23 GMT - Info - Server is running on port: 3030
+Sun, 29 Mar 2020 08:35:59 GMT - Info - Server is running on port: 3030
+Sun, 29 Mar 2020 08:48:06 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 08:48:40 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 08:49:00 GMT - Debug - auth.service - login with email: a
+Sun, 29 Mar 2020 08:49:02 GMT - Debug - auth.service - login with email: a
+Sun, 29 Mar 2020 08:49:05 GMT - Debug - auth.service - login with email: a
+Sun, 29 Mar 2020 08:49:06 GMT - Debug - auth.service - login with email: a
+Sun, 29 Mar 2020 08:49:07 GMT - Debug - auth.service - login with email: a
+Sun, 29 Mar 2020 08:49:09 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 08:49:22 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 08:49:23 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 08:49:39 GMT - Debug - auth.service - login with email: b
+Sun, 29 Mar 2020 08:59:43 GMT - Debug - auth.service - login with email: b
+Sun, 29 Mar 2020 08:59:47 GMT - Debug - auth.service - login with email: z
+Sun, 29 Mar 2020 08:59:56 GMT - Info - Server is running on port: 3030
+Sun, 29 Mar 2020 09:00:00 GMT - Debug - auth.service - login with email: b
+Sun, 29 Mar 2020 10:24:24 GMT - Info - Server is running on port: 3030
+Sun, 29 Mar 2020 13:33:26 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 13:39:53 GMT - Debug - auth.service - login with email: kayla@elliott.com
+Sun, 29 Mar 2020 13:40:56 GMT - Debug - auth.service - login with email: c@colman.com
+Sun, 29 Mar 2020 13:41:14 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 18:09:53 GMT - Info - Server is running on port: 3030
+Sun, 29 Mar 2020 18:10:06 GMT - Debug - auth.service - login with email: c@coleman.com
+Sun, 29 Mar 2020 18:10:08 GMT - Debug - auth.service - login with email: c@coleman.com
+Mon, 30 Mar 2020 10:24:24 GMT - Info - Server is running on port: 3030
+Mon, 30 Mar 2020 10:45:22 GMT - Debug - auth.service - login with email: c@coleman.com
+Mon, 30 Mar 2020 10:45:26 GMT - Debug - auth.service - login with email: c@coleman.com
+Mon, 30 Mar 2020 10:47:00 GMT - Debug - auth.service - login with email: c@coleman.com
+Mon, 30 Mar 2020 15:34:56 GMT - Info - Server is running on port: 3030
+Mon, 30 Mar 2020 16:25:20 GMT - Debug - auth.service - login with email: c@coleman.com
+Mon, 30 Mar 2020 16:25:24 GMT - Debug - auth.service - login with email: c@coleman.com
+Mon, 30 Mar 2020 16:50:26 GMT - Debug - auth.service - login with email: c@coleman.com
+Tue, 31 Mar 2020 08:22:46 GMT - Info - Server is running on port: 3030
+Sun, 05 Apr 2020 11:31:12 GMT - Info - Server is running on port: 3030
+Sun, 05 Apr 2020 11:32:13 GMT - Info - Server is running on port: 3030
+Sun, 05 Apr 2020 11:34:43 GMT - Info - Server is running on port: 3030
+Sun, 05 Apr 2020 11:34:53 GMT - Info - Server is running on port: 3030

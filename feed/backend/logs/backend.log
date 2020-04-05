@@ -474,3 +474,5 @@ Mon, 30 Mar 2020 16:25:20 GMT - Debug - auth.service - login with email: c@colem
 Mon, 30 Mar 2020 16:25:24 GMT - Debug - auth.service - login with email: c@coleman.com
 Mon, 30 Mar 2020 16:50:26 GMT - Debug - auth.service - login with email: c@coleman.com
 Tue, 31 Mar 2020 08:22:46 GMT - Info - Server is running on port: 3030
+Sun, 05 Apr 2020 11:43:22 GMT - Info - Server is running on port: 3030
+Sun, 05 Apr 2020 12:02:08 GMT - Info - Server is running on port: 3030

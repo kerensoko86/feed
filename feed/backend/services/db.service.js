@@ -7,7 +7,7 @@ module.exports = {
 };
 
 // Database Name
-const dbName = "worldwider_db";
+const dbName = "FEED_DB";
 
 var dbConn = null;
 
