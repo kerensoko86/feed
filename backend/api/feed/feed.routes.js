@@ -4,18 +4,18 @@ const {
   requireAdmin
 } = require("../../middlewares/requireAuth.middleware");
 const {
-  addReview,
-  getReviews,
-  deleteReview,
+  addFeed,
+  getFeeds,
+  deleteFeed,
   getByUserId
-} = require("./review.controller");
+} = require("./feed.controller");
 const router = express.Router();
 
 // middleware that is specific to this router
 // router.use(requireAuth)
 
-router.get("/", getReviews);
-router.post("/", addReview);
-router.delete("/:id", deleteReview);
+router.get("/", getFeeds);
+router.post("/", addFeed);
+router.delete("/:id", deleteFeed);
 
 module.exports = router;

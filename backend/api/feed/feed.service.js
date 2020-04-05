@@ -1,7 +1,7 @@
 const dbService = require("../../services/db.service");
 const ObjectId = require("mongodb").ObjectId;
 
-const COLLECTION_NAME = "review";
+const COLLECTION_NAME = "feed";
 
 async function query(filterBy = {}) {
   const criteria = _buildCriteria(filterBy);
@@ -9,14 +9,14 @@ async function query(filterBy = {}) {
   console.log(criteria);
   const collection = await dbService.getCollection(COLLECTION_NAME);
   try {
-    var reviews = await collection
+    var feeds = await collection
       .aggregate([
         {
           $match: criteria
         }
       ])
       .toArray();
-    // var reviewsWithUsers = await collection
+    // var feedsWithUsers = await collection
     //   .aggregate([
     //     {
     //       $match: criteria
@@ -45,19 +45,19 @@ async function query(filterBy = {}) {
     //     }
     //   ])
     //   .toArray();
-    console.log(reviews);
+    console.log(feeds);
     let sum = 0;
-    const reviewsToReturn = await Promise.all(
-      reviews.map(async review => {
-        sum += review.rating;
-        if (review.userId) {
+    const feedsToReturn = await Promise.all(
+      feeds.map(async feed => {
+        sum += feed.rating;
+        if (feed.userId) {
           const userCollection = await dbService.getCollection("user");
           try {
             const user = await userCollection.findOne({
-              _id: ObjectId(review.userId)
+              _id: ObjectId(feed.userId)
             });
             if (user != null) {
-              review.by = {
+              feed.by = {
                 _id: user._id,
                 lastName: user.lastName,
                 firstName: user.firstName,
@@ -65,54 +65,54 @@ async function query(filterBy = {}) {
                 userImgUrl: user.userImgUrl
               };
             } else {
-              review.by = {
-                firstName: review.name
+              feed.by = {
+                firstName: feed.name
               };
             }
             console.log(user);
           } catch (err) {
             console.log(err);
           }
-        } else if (review.userId === null) {
-          review.by = {
-            firstName: review.name
+        } else if (feed.userId === null) {
+          feed.by = {
+            firstName: feed.name
           };
         }
-        return review;
+        return feed;
       })
     );
-    console.log("reviewToReturn", reviewsToReturn);
+    console.log("feedToReturn", feedsToReturn);
     return {
-      reviews: reviewsToReturn,
-      avg: (sum / reviews.length).toFixed(1),
-      total: reviews.length
+      feeds: feedsToReturn,
+      avg: (sum / feeds.length).toFixed(1),
+      total: feeds.length
     };
   } catch (err) {
-    console.log("ERROR: cannot find reviews");
+    console.log("ERROR: cannot find feeds");
     throw err;
   }
 }
 
-async function remove(reviewId) {
+async function remove(feedId) {
   const collection = await dbService.getCollection(COLLECTION_NAME);
   try {
-    await collection.deleteOne({ _id: ObjectId(reviewId) });
+    await collection.deleteOne({ _id: ObjectId(feedId) });
   } catch (err) {
-    console.log(`ERROR: cannot remove review ${reviewId}`);
+    console.log(`ERROR: cannot remove feed ${feedId}`);
     throw err;
   }
 }
 
-async function add(review) {
-  if (review.userId) {
-    review.userId = ObjectId(review.userId);
+async function add(feed) {
+  if (feed.userId) {
+    feed.userId = ObjectId(feed.userId);
   }
-  review.tourGuideId = ObjectId(review.tourGuideId);
-  review.createdAt = Date.now();
+  feed.tourGuideId = ObjectId(feed.tourGuideId);
+  feed.createdAt = Date.now();
   const collection = await dbService.getCollection(COLLECTION_NAME);
   try {
-    await collection.insertOne(review);
-    return review;
+    await collection.insertOne(feed);
+    return feed;
   } catch (err) {
     console.log(`ERROR: cannot insert user`);
     throw err;
@@ -122,7 +122,7 @@ async function add(review) {
 async function getTotalByGuideId(guideId) {
   const collection = await dbService.getCollection(COLLECTION_NAME);
   try {
-    var reviews = await collection
+    var feeds = await collection
       .aggregate([
         {
           $match: {
@@ -133,15 +133,15 @@ async function getTotalByGuideId(guideId) {
       .toArray();
 
     let sum = 0;
-    reviews.map(review => {
-      if (typeof review.rating === "number") sum += review.rating;
+    feeds.map(feed => {
+      if (typeof feed.rating === "number") sum += feed.rating;
     });
-    let avg = sum / reviews.length;
+    let avg = sum / feeds.length;
     if (!avg) {
       avg = 0;
     }
     return {
-      total: reviews.length,
+      total: feeds.length,
       avg: avg.toFixed(1)
     };
   } catch (error) {
